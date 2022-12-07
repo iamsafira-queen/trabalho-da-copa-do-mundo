@@ -1,0 +1,162 @@
+.a
+{
+	width:100%;
+	height:40px;
+	display: flex;
+	
+
+}
+.aa
+{
+	width:%;
+	height:px;
+	background-color:white;
+}
+.ab
+{
+	width:95%;
+	height:40px;
+	background-color:white;
+	border-left:5%;
+}
+.aba
+{
+	width:100%;
+	height:13px;
+	background-color:white;
+}
+.abb
+{
+	width:100%;
+	height:13px;
+	background-color:white;
+	display:flex;
+	flex-direction:row;
+}
+.abc
+{
+	width:100%;
+	height:13px;
+	background-color:white;
+}
+.menu
+{
+	width:10%;
+	height:13px;
+	background-color:#DCDCDC;
+}
+.menu1
+{
+	width:85%;
+	height:13px;
+	background-color:white;
+}
+.menua1
+{
+	width:2%;
+	height:13px;
+	background-color:#DCDCDC;
+}
+.menu2
+{
+	width:2%;
+	height:13px;
+	background-color:white;
+}
+.menua2
+{
+	width:2%;
+	height:13px;
+	background-color:#DCDCDC;
+}
+.menu2
+{
+	width:2%;
+	height:13px;
+	background-color:white;
+}
+.menua3
+{
+	width:2%;
+	height:13px;
+	background-color:#DCDCDC;
+}
+.menu3
+{
+	width:2%;
+	height:13px;
+	background-color:white;
+}
+.b
+{
+	width:100%;
+	height:150px;
+	background-color:#DCDCDC;
+}
+.c
+{
+	width:100%;
+	height:30px;
+	background-color:white;
+}
+.d
+{
+
+	width:100%;
+	height:50vh;
+
+
+}
+.da
+{
+	width:10%;
+	height:100vh;
+	background-color:#DCDCDC;
+}
+.db
+{
+	width:2%;
+	height:50vh;
+	background-color:white;
+}
+.dc
+{
+	width:80%;
+	height:50vh;
+	display: flex;
+	flex-direction:row;
+
+}
+.dca
+{
+	width:50%;
+	height:50vh;
+	background-color:orange;
+}
+.dcb
+{
+	width:50%;
+	height:50vh;
+	background-color:pink;
+}
+.dd
+{
+	width:80%;
+	height:2vh;
+	background-color:black;
+}
+.de
+{
+	width:80%;
+	height:30vh;
+	background-color:#00008B;
+	display:block;
+	flex-direction:column;
+}
+.dea
+{
+	width:40%;
+	height:30vh;
+	background-color:#000000;
+	
+}
